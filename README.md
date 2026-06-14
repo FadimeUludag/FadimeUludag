@@ -7,15 +7,13 @@ Computer Engineering Student at Atatürk University
 - C++
 - Python
 - Django
-- MSSQL
-- SQL
+- SQL / MSSQL
 - Git & GitHub
 
 ## Projects
 
-### Yemeksepeti Django SQL
-
-### Notes Project
+- Yemeksepeti Django SQL
+- Notes Project
 
 
 ## Interests
