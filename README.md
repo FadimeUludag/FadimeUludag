@@ -4,11 +4,11 @@ Computer Engineering Student at Atatürk University
 
 ## Technologies
 
+- C++
 - Python
 - Django
 - MSSQL
 - SQL
-- HTML / CSS
 - Git & GitHub
 
 ## Projects
