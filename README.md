@@ -14,10 +14,9 @@ Computer Engineering Student at Atatürk University
 ## Projects
 
 ### Yemeksepeti Django SQL
-Food ordering system developed with Django and MSSQL, including Stored Procedures, Triggers, Functions and Views.
 
 ### Notes Project
-Simple note management application developed with Django.
+
 
 ## Interests
 
