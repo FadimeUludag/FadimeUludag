@@ -1,4 +1,4 @@
-# Hi, I'm Fadime Uludağ 👋
+# Hi, I'm Fadime Uludağ 
 
 Computer Engineering Student at Atatürk University
 
