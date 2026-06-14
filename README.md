@@ -20,6 +20,5 @@ Computer Engineering Student at Atatürk University
 
 ## Interests
 
-- Backend Development
 - Database Systems
 - Software Development
